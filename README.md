@@ -1,5 +1,5 @@
  Olá eu sou a Roberta Keller, futura programadora! ❤️
- <br> 👩‍💻 Estudando Desenvolvimento Web #ElasnaTech
+ <br> 👩‍💻 Estudando Desenvolvimento Web Front-end
 ##
 <div align="center">
   <a href="https://github.com/RobertaKSilva">
