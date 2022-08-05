@@ -1,5 +1,7 @@
  Olá eu sou a Roberta Keller, futura programadora! ❤️
  <br> 👩‍💻 Estudando Desenvolvimento Web Front-end
+ <br> A prática leva a perfeição!!
+ 
 ##
 <div align="center">
   <a href="https://github.com/RobertaKSilva">
